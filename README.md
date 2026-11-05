@@ -2,7 +2,7 @@
 
 | 조 | 주제 | 저장소 |
 |---|---|---|
-| 1 | 전공 이수체계도 시각화 및 학기별 수강 계획 검증 서비스 | |
+| 1 | 전공 이수체계도 시각화 및 학기별 수강 계획 검증 서비스 | [CurriTree](https://github.com/central324/CurriTree) |
 | 2 | 약속 조율 플랫폼 | [team02](https://github.com/bagjibin011-max/team02) |
 | 3 | 프로젝트 역할 분배 및 프로젝트 관리 서비스 | |
 | 4 | 자연어 기반 분실물 매칭 서비스 | [OSS-TEAM04](https://github.com/lym0309/OSS-TEAM04) |
